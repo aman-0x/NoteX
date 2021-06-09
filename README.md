@@ -15,5 +15,6 @@ NoteX is an Android App developed using react-native. In this you can perform ce
 If you are going to use this repo. First create a firebase acccount, create an app in firebase as you are going to need webClientID (which you have to place in the "App.js" file) that will be available in the "google-services.json"(place this file in the android/app directory) which you will get once you upload the SHA-1 key to the firebase app.<br />
 <br/>Once you are done, install the node modules using the command.br/>
 * npm i
-<br />Then run the project using the command.<br />
+
+Then run the project using the command.<br />
 * npx react-native run-android
